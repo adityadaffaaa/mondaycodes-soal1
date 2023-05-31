@@ -1,0 +1,22 @@
+
+.section1{
+    margin: 32px 0;
+}
+
+.section1 img{
+    position: center;
+}
+
+.section2 h1{
+    font-weight: bold;
+    color: #355070;
+    font-family: 'League Spartan', sans-serif;
+}
+
+.section2 p{
+    line-height: 36px;
+}
+
+.section2 h5{
+    color: #E56B6F;
+}
